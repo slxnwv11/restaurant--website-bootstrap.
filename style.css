@@ -5,7 +5,7 @@ body{
     overflow-x: hidden;
 }
 .hero-section{
-    background-image: url(./img/bek.jpg);
+    background-image: url(img/fon.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -81,4 +81,5 @@ body{
     color: #fff;
 
 }
+
 
